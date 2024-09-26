@@ -1,0 +1,19 @@
+{
+  "name": "cypress-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server",
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+  }
+}
